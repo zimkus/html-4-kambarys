@@ -1,0 +1,13 @@
+{
+  "name": "html-4-kambarys",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --host=localhost --port=4 kambarys",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Eimantas <mutka01@gmail.com> (https://github.com/zimkus)",
+  "license": "ISC"
+}
